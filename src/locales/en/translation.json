@@ -1,0 +1,834 @@
+{
+  "home": "Home",
+  "navAbout": "About",
+  "navFeatures": "Features",
+  "plans": "Broadband Plans",
+  "customerCare": "Customer Care",
+  "business": "Business",
+  "joinPartner": "Join As Partner",
+  "newConnection": "New Connection",
+  "recharge": "Recharge",
+  "tariff": "Tariff",
+  "login": "Login",
+  "subscriber": "Subscriber",
+  "newConnectionSupport": "For New Connection & Support",
+  "topBar": "A Broadband Initiative of RailTel Corporation of India Limited (A Navratna CPSE)",
+  "selectState": "Select Your State",
+  "chooseState": "Choose Your State",
+  "continue": "Continue",
+  "subscriberAlert": "The subscriber portal link for {{state}} has not been added yet.",
+  "states": {
+    "Andhra Pradesh": "Andhra Pradesh",
+    "Assam": "Assam",
+    "Bihar": "Bihar",
+    "Chhattisgarh": "Chhattisgarh",
+    "Delhi": "Delhi",
+    "Gujarat": "Gujarat",
+    "Haryana": "Haryana",
+    "Himachal Pradesh": "Himachal Pradesh",
+    "Jammu & Kashmir": "Jammu & Kashmir",
+    "Jharkhand": "Jharkhand",
+    "Karnataka": "Karnataka",
+    "Kerala": "Kerala",
+    "Lakshadweep": "Lakshadweep",
+    "Madhya Pradesh": "Madhya Pradesh",
+    "Maharashtra & Goa": "Maharashtra & Goa",
+    "Mizoram, Meghalaya & Tripura": "Mizoram, Meghalaya & Tripura",
+    "Manipur, Nagaland & Arunachal Pradesh": "Manipur, Nagaland & Arunachal Pradesh",
+    "Odisha": "Odisha",
+    "Punjab": "Punjab",
+    "Rajasthan": "Rajasthan",
+    "Tamil Nadu": "Tamil Nadu",
+    "Telangana": "Telangana",
+    "UP East": "UP East",
+    "UP West": "UP West",
+    "West Bengal": "West Bengal"
+  },
+  "loginMenu": {
+    "subscriber": "Subscriber",
+    "anps": "ANPs",
+    "agnps": "AGNPs",
+    "msp": "MSPs"
+  },
+  "hero": {
+    "slide1": {
+      "eyebrow": "Seamless Speed for Every Need",
+      "title1": "High-Speed Broadband",
+      "title2": "for Homes & Businesses",
+      "text1": "Experience seamless internet with ultra-fast speeds, reliable connectivity,",
+      "text2": "and affordable plans designed for your daily needs.",
+      "badge1": "20 +",
+      "badge2": "more OTTs"
+    },
+    "slide3": {
+      "eyebrow": "Connecting Every Corner",
+      "title1": "Broadband for cities,",
+      "title2": "towns, and rural India.",
+      "text1": "We provide next-generation fiber broadband services",
+      "text2": "delivering high-speed internet with unmatched reliability..",
+      "badge1": "450+",
+      "badge2": "Live TV channels"
+    },
+    "happyUsers": "6.20 L happy users",
+    "achiever": {
+      "label": "ACHIEVER OF THE MONTH",
+      "name": "Rajesh Kumar",
+      "text": "Connected 150+ new customers and delivered exceptional service this month.",
+      "cta": "Know More",
+      "blobLine1": "Our",
+      "blobLine2": "Achiever"
+    }
+  },
+  "about": {
+    "label": "About Our Broadband",
+    "title1": "Your Trusted Internet",
+    "title2": "Partner.",
+    "p1": "We are a trusted broadband service provider delivering high-speed fiber internet for homes and businesses. Our mission is to provide fast, reliable, and affordable connectivity that keeps you connected without interruptions.",
+    "p2": "With advanced fiber technology and dedicated customer support, we ensure seamless browsing, streaming, and working experiences every day.",
+    "point1": "Seamless Connectivity",
+    "point2": "Fast Connection",
+    "point3": "Wide Coverage",
+    "fiber1": "Fiber",
+    "fiber2": "Powered",
+    "watchAlt": "Watching movies on RailWire",
+    "youtubeAlt": "We are still connecting people",
+    "moreAbout": "More About Us",
+    "callUs": "Call Us Now"
+  },
+  "features": {
+    "label": "Why Choose RailWire?",
+    "title1": "Our Special",
+    "title2": "Features",
+    "happyAlt": "Happy RailWire user",
+    "navratna": {
+      "title": "Navratna PSU Status",
+      "desc": "Backed by RailTel, a prestigious Navratna Public Sector Enterprise under the Government of India."
+    },
+    "ministry": {
+      "title": "Ministry Of Railways",
+      "desc": "Operating under the Ministry of Railways with a commitment to nationwide digital connectivity"
+    },
+    "millions": {
+      "title": "Millions Of Subscribers",
+      "desc": "Serving a rapidly growing customer base with reliable and high-speed broadband services"
+    },
+    "pan": {
+      "title": "PAN-India Coverage",
+      "desc": "Connecting thousands of towns and villages through an extensive optical fibre network."
+    },
+    "reliable": {
+      "title": "Reliable Network Performance",
+      "desc": "Delivering stable connectivity with high network availability and dependable service quality."
+    },
+    "rural": {
+      "title": "Rural Digital Empowerment",
+      "desc": "Bridging the digital divide by bringing affordable broadband to rural and underserved communities."
+    }
+  },
+  "entertainment": {
+    "title1": "Unlimited Entertainment with",
+    "text": "Watch your favorite content anytime with OTT bundled broadband plans designed for seamless streaming and nonstop entertainment.",
+    "cta": "click Here",
+    "alt": "OTT entertainment"
+  },
+  "partner": {
+    "card1Title": "Expand Your Local Reach",
+    "card1Point1": "Serve homes and businesses in your area with ease",
+    "card1Point2": "Start your own broadband business with RailWire",
+    "card2Title": "Powered by RailWire Network",
+    "card2Point1": "Leverage a reliable, government-backed fiber infrastructure",
+    "card2Point2": "Get assistance for setup, operations, and maintenance",
+    "growTitle": "Grow Your Business with RailWire",
+    "become": "Become A Partner"
+  },
+  "plansSection": {
+    "eyebrow": "Our Best Plan",
+    "title1": "Select Your",
+    "title2": "Best Plan",
+    "perMonth": "/ 30 Days"
+  },
+  "searchPlans": {
+    "eyebrow": "📍 Find Plans in Your Area",
+    "title": "Search RailWire Broadband Plans",
+    "text": "Select your state or region to view the latest broadband plans, offers and availability in your area.",
+    "search": "Search Plans →"
+  },
+  "achievers": {
+    "eyebrow": "Our Achievers",
+    "title": "Achievers of the Month",
+    "text": "Recognizing outstanding performance across our network. Celebrating partners who go the extra mile to connect communities.",
+    "viewAll": "View All Achievers",
+    "badge": "Achiever of the Month",
+    "role": "ANP – Mumbai",
+    "text2": "Connected 150+ new customers and delivered exceptional service this month."
+  },
+  "testimonials": {
+    "eyebrow": "Our Testimonials",
+    "title1": "What People",
+    "title2": "Talked",
+    "title3": "About Us",
+    "text": "Hear from the people who trust RailWire every day. Experience the difference through their stories.",
+    "counter": "Review {{current}} of {{total}}",
+    "prevAria": "Previous testimonial",
+    "nextAria": "Next testimonial"
+  },
+  "digital": {
+    "eyebrow": "Beyond Broadband",
+    "title1": "Your Everyday",
+    "title2": "Digital Platform",
+    "student": {
+      "title": "Student Corner",
+      "desc": "Stay updated with the latest exam notifications, scholarships, career guidance, and learning resources for students across India.",
+      "l1": "Educational News",
+      "l2": "Job Alert",
+      "l3": "Study Resources",
+      "btn": "Explore Student Zone"
+    },
+    "news": {
+      "title": "News & Updates",
+      "desc": "Stay connected with local news, railway updates, government announcements, Technology & Digital Updates around your region.",
+      "l1": "Local Area News",
+      "l2": "Railway Updates",
+      "l3": "Technology Updates",
+      "btn": "View Updates"
+    },
+    "zone": {
+      "title": "Entertainment Zone",
+      "desc": "Enjoy fun quizzes, cricket predictions, puzzles, and interactive games designed for students, families, and everyday users.",
+      "l1": "Memory Match",
+      "l2": "Daily Quiz Games",
+      "l3": "Puzzle & Brain Games",
+      "btn": "Play & Explore"
+    },
+    "business": {
+      "title": "Local Business Connect",
+      "desc": "Discover trusted local businesses, services, restaurants, shops, tuition centers, and more from your nearby communities.",
+      "l1": "Nearby Businesses",
+      "l2": "Local Services",
+      "l3": "Featured Shops",
+      "btn": "Explore Businesses"
+    }
+  },
+  "faq": {
+    "eyebrow": "Find quick answers to common questions",
+    "title": "FAQ",
+    "ottTitle": "OTT activation",
+    "ottText": "Watch this video to know how to activate your OTT",
+    "viewAll": "View All"
+  },
+  "share": {
+    "title1": "Share Your",
+    "title2": "Knowledge.",
+    "text": "Contribute your knowledge, experiences, and marketing ideas to help others grow and get recognized across the network.",
+    "cta": "Submit Your Content"
+  },
+  "blogs": {
+    "eyebrow": "Explore insights, success stories, and updates shared by our growing partner network.",
+    "title1": "Latest",
+    "title2": "Blogs",
+    "viewAll": "View All Blog",
+    "admin": "Railwireadmin",
+    "readMore": "Read more",
+    "previousAria": "Previous",
+    "nextAria": "Next",
+    "pageAria": "Page {{n}}"
+  },
+  "units": {
+    "otts": "OTTs",
+    "channels": "Channels",
+    "paidChannels": "Paid Channels",
+    "paidTvChannels": "Paid TV Channels",
+    "comment": "Comment",
+    "comments": "Comments"
+  },
+  "faqs": [
+    {
+      "q": "How Can I Get a New RailWire Connection?",
+      "a": "You can apply for a new connection through our website or contact your nearest local partner. Our team will assist you with quick installation and activation based on your location."
+    },
+    {
+      "q": "What Documents Are Required For Installation?",
+      "a": "To get a new connection, you need a valid ID proof (such as Aadhar card), a passport-size photograph, and an active mobile number for registration."
+    },
+    {
+      "q": "Are There Any Installation Charges?",
+      "a": "Yes, installation charges may apply depending on your location and plan. Our team will inform you about the exact cost before proceeding."
+    },
+    {
+      "q": "Is The Internet Plan Unlimited?",
+      "a": "Yes, RailWire offers unlimited broadband plans. However, speeds may be adjusted as per Fair Usage Policy (FUP) after a certain limit."
+    }
+  ],
+  "testimonialItems": [
+    {
+      "q": "RailWire provides excellent internet speed and consistent connectivity for my work-from-home setup. Video calls and streaming run smoothly without buffering.",
+      "r": "Customer"
+    },
+    {
+      "q": "The broadband speed has been remarkably stable even during peak hours. Gaming, streaming, and large downloads are much smoother compared to my previous provider.",
+      "r": "Customer"
+    },
+    {
+      "q": "Customer support was quick to respond, and the installation process for my new connection was seamless. Highly recommended for families and students.",
+      "r": "Customer"
+    },
+    {
+      "q": "RailWire delivers reliable high-speed internet with great uptime. Perfect for our smart TV, online meetings, and everyday browsing needs.",
+      "r": "Customer"
+    },
+    {
+      "q": "RailWire has completely transformed our internet experience at home. The speed is consistently high, and there are no interruptions during online classes or streaming.",
+      "r": "Home User"
+    },
+    {
+      "q": "As a business owner, reliable internet is crucial. RailWire’s stable connectivity helps us manage operations smoothly every day.",
+      "r": "Small Business Owner"
+    },
+    {
+      "q": "Partnering with RailWire has helped me grow my business significantly. The support, training, and resources provided are excellent.",
+      "r": "Partner (ANP)"
+    }
+  ],
+  "blogTitles": [
+    "RailWire Expands High-Speed Connectivity Across Rural India",
+    "How a Local Partner Transformed Connectivity in Their Region",
+    "Why Fiber Broadband is the Future of Internet Connectivity",
+    "Become a RailWire Partner and Grow Your Business",
+    "Guide for wifi Setup – Wi-Fi connection is simple and quick",
+    "The Rise of Digital India and the Need for Better Connectivity"
+  ],
+  "faqPage": {
+    "hero": {
+      "eyebrow": "RailWire Customer Support",
+      "title": "FAQ",
+      "subtitle": "We are here to help you stay connected."
+    },
+    "heading": {
+      "title": "Support & Frequently Asked Questions",
+      "text": "Find quick answers to common questions about our services, plans, and support."
+    },
+    "categories": {
+      "general": "General & Connection",
+      "support": "Support & Troubleshooting",
+      "plans": "Plans, Billing & Usage"
+    },
+    "items": {
+      "general": [
+        {
+          "question": "What is RailWire broadband?",
+          "answer": "RailWire is a high-speed fiber broadband service designed to deliver fast, stable, and reliable internet connectivity for both homes and businesses. It uses advanced fiber-optic technology to ensure better speed, low latency, and uninterrupted performance for activities like streaming, online classes, gaming, and office work."
+        },
+        {
+          "question": "How long does installation take?",
+          "answer": "Installation is usually completed within 1 to 3 working days after your request is confirmed. The exact time may vary depending on your location, network availability, and technical feasibility. Our team will keep you informed throughout the process."
+        },
+        {
+          "question": "How can I apply for a new connection?",
+          "answer": "Getting a new connection is simple. You can apply directly through our website by filling out the connection form, or you can contact your nearest local partner. Once your request is received, our team will verify your location, guide you through the available plans, and schedule installation at your convenience."
+        },
+        {
+          "question": "What documents are required for a new connection?",
+          "answer": "You may be asked to provide basic identity and address details. Please confirm the required documents with your local RailWire service provider. To process your connection request, you will need a valid identity proof such as an Aadhar card, a passport-size photograph, and an active mobile number. These details are required for registration and verification purposes to ensure a smooth onboarding process."
+        },
+        {
+          "question": "Is RailWire available in my area?",
+          "answer": "RailWire services are rapidly expanding across urban and rural regions. To check availability, you can enter your location on our website or contact our support team. If service is not currently available, we may still be able to assist through nearby partners."
+        }
+      ],
+      "support": [
+        {
+          "question": "What should I do if my internet is not working?",
+          "answer": "If your internet stops working, first try restarting your router by turning it off and on after a few seconds. Check if cables are properly connected. If the issue continues, contact our support team or your local partner for quick assistance."
+        },
+        {
+          "question": "How can I check my internet speed?",
+          "answer": "You can check your internet speed using online tools like Speedtest. Simply open the website and click “Go” to measure your download and upload speeds. For accurate results, ensure no other devices are using the network during the test."
+        },
+        {
+          "question": "How do I change my WiFi password?",
+          "answer": "To change your WiFi password, log in to your router settings using the IP address (usually mentioned on the router). Enter your username and password, navigate to wireless settings, and update your WiFi password. Save changes and reconnect your devices."
+        },
+        {
+          "question": "How can I contact customer support?",
+          "answer": "You can reach our customer support team via phone, WhatsApp, or email. Our support team is available to assist you with installation, billing, and technical issues to ensure a smooth experience."
+        },
+        {
+          "question": "What should I do if my connection is slow?",
+          "answer": "If your internet speed is slow, check for background downloads, limit the number of connected devices, and restart your router. If the issue persists, contact support to check for network issues or plan-related limitations."
+        }
+      ],
+      "plans": [
+        {
+          "question": "What are the available plans?",
+          "answer": "RailWire offers a variety of broadband plans tailored to different needs, including home users, small businesses, and enterprises. Plans vary based on speed, data usage, and pricing, allowing you to choose the one that best suits your requirements."
+        },
+        {
+          "question": "Are the plans unlimited?",
+          "answer": "Yes, most RailWire plans come with unlimited data usage. However, under the Fair Usage Policy (FUP), speeds may be reduced after a certain data limit is reached. This ensures fair usage across all users while still providing continuous internet access."
+        },
+        {
+          "question": "How can I pay my bill?",
+          "answer": "You can conveniently pay your bills online using UPI, debit/credit cards, net banking, or through your local service provider. Some partners may also offer offline payment options. Timely payment ensures uninterrupted service."
+        },
+        {
+          "question": "Can I upgrade or downgrade my plan?",
+          "answer": "Yes, you have the flexibility to upgrade or downgrade your plan at any time. Simply contact our support team or your local partner, and they will assist you in selecting and activating a new plan based on your needs."
+        },
+        {
+          "question": "Will I receive a bill or invoice?",
+          "answer": "Yes, a detailed invoice is generated for every payment you make. You can access it through your account or receive it from your service provider. This helps you track your usage and billing history."
+        }
+      ]
+    },
+    "guidesTitle": "Guides And Downloads",
+    "guidesText": "Helpful guides and manuals to download",
+    "downloadHere": "Download Here",
+    "guides": {
+      "wifi": {
+        "title": "WiFi Setup Guide",
+        "description": "Step-by-step instructions to configure your router."
+      },
+      "billing": {
+        "title": "Billing & Payment Guide",
+        "description": "Learn how to pay bills, track payments, and download invoices."
+      },
+      "troubleshooting": {
+        "title": "Troubleshooting Guide",
+        "description": "Quick fixes and solutions for common internet and connectivity issues."
+      }
+    },
+    "videoTitle1": "Watch easy-to-follow videos",
+    "videoTitle2": "and resolve issues quickly.",
+    "videoText": "Step-by-step tutorials to guide you at every stage.",
+    "videoCategories": {
+      "getting": "Getting Started",
+      "account": "Account & Billing",
+      "troubleshooting": "Troubleshooting",
+      "router": "Router & Settings",
+      "advanced": "Advanced / Awareness"
+    },
+    "videos": {
+      "apply": "How to Apply for a New Broadband Connection",
+      "installation": "RailWire Installation Process Explained Step-by-Step",
+      "chooseplan": "How to Choose the Right Internet Plan for Your Needs",
+      "payBill": "How to Pay Your Broadband Bill Online (UPI, Card & More)",
+      "invoice": "How to Download Your Invoice or Payment Receipt",
+      "upgrade": "How to Upgrade or Change Your Internet Plan"
+    },
+    "tutorialLabel": "RAILWIRE TUTORIAL {{n}}",
+    "comingSoon": "This tutorial video is coming soon.",
+    "chatAria": "Chat with us",
+    "chatAlert": "Connect your RailWire chat support here."
+  },
+  "aboutPage": {
+    "heroTitle": "About Railwire",
+    "yearsBadge": {
+      "years": "10+ Years",
+      "label": "of Connectivity"
+    },
+    "eyebrow": "ABOUT OUR INTERNET",
+    "title": {
+      "line1": "Reliable Internet",
+      "powered": "Powered by Railtel",
+      "network": "Network"
+    },
+    "desc": "Enjoy high-speed fiber internet with smooth browsing, streaming, and downloads. RailWire ensures stable and consistent connectivity for all your daily needs.",
+    "fastConnected": {
+      "title": "Fast Connected",
+      "desc": "Connecting people through reliable internet connectivity and advanced fiber infrastructure."
+    },
+    "happyUsers": "2.5M HAPPY USERS",
+    "experience": {
+      "title1": "Experience the Power of",
+      "title2": "RailWire Broadband",
+      "p1": "RailWire is a high-speed fiber broadband service powered by RailTel, designed to deliver reliable and affordable internet connectivity to homes, businesses, and communities across India.",
+      "p2": "With advanced optical fiber infrastructure and high-speed broadband plans, RailWire enables seamless streaming, online learning, work-from-home, gaming, video conferencing, and smart home connectivity. RailWire focuses on providing stable internet services with wide network coverage."
+    },
+    "lifestyle": {
+      "title": "Reliable Fiber Broadband for Every Lifestyle",
+      "p1": "RailTel Corporation of India Ltd. is a Mini Ratna (Category-I) Public Sector Undertaking under the Ministry of Railways, Government of India.",
+      "p2": "RailTel owns one of the largest neutral telecom infrastructure networks in the country, built on a nationwide optical fiber cable network laid along railway tracks.",
+      "p3": "With a strong digital infrastructure and extensive connectivity across cities, towns, and rural areas, RailTel plays a key role in supporting India's digital transformation by providing telecom, broadband, data center, and network services."
+    }
+  },
+  "businessPage": {
+    "hero": {
+      "tag": "Smart Shop Connectivity",
+      "title1": "Uninterrupted Connectivity",
+      "title2": "Built to Drive Your Store Sales",
+      "desc": "Power your daily shop operations with zero downtime from instant digital payments and live CCTV monitoring to cloud POS and seamless customer Wi-Fi."
+    },
+    "solutions": {
+      "heading": "Connectivity Solutions for Every Business",
+      "subheading": "Choose the right solution for your business needs. We serve Corporate, SME and MSME customers with tailored broadband and enterprise connectivity solutions.",
+      "corporate": {
+        "title": "Corporate",
+        "desc": "Enterprise-grade connectivity and networking solutions for organizations with demanding connectivity requirements"
+      },
+      "sme": {
+        "title": "SME",
+        "desc": "Reliable and economical broadband solutions designed to support growing businesses."
+      },
+      "msme": {
+        "title": "MSME",
+        "desc": "Flexible and scalable connectivity solutions designed around the needs of small and medium businesses."
+      }
+    },
+    "whyChoose": {
+      "f1": "Competitive Business Tariffs",
+      "f2": "Reliable Connectivity",
+      "f3": "Economical And Scalable Connectivity Solutions.",
+      "f4": "Solutions for Corporate, SME And MSME Customers",
+      "f5": "Scalable Solutions",
+      "f6": "Grow Seamlessly With Your Business Needs."
+    },
+    "benefits": {
+      "heading": "Key business broadband benefits",
+      "b1": {
+        "title": "Competitive Business Broadband Tariffs",
+        "desc": "Flexible and cost-effective broadband plans tailored to SME and MSME connectivity needs, with options to support business growth and changing bandwidth requirements."
+      },
+      "b2": {
+        "title": "Static IP Facility",
+        "desc": "Support remote access, CCTV surveillance, VPN connectivity, hosting and other business applications with a dedicated static IP facility.",
+        "sme": "SME Customers",
+        "smeFree": "Static IP provided free of cost.",
+        "msme": "MSME Customers",
+        "msmePaid": "Static IP facility available on a paid basis."
+      },
+      "b3": {
+        "title": "Scalable Connectivity",
+        "desc": "Choose connectivity solutions to suit your current business needs and expand as your operations, users and network requirements grow."
+      }
+    },
+    "cta": {
+      "desc": "Go beyond broadband with RailTel’s comprehensive portfolio of enterprise connectivity and managed network solutions.",
+      "btn": "Get A Business Connection"
+    },
+    "faqs": [
+      {
+        "q": "How Can I Get a New RailWire Connection?",
+        "a": "You can apply for a new connection through our website or contact your nearest local partner. Our team will assist you with quick installation and activation based on your location."
+      },
+      {
+        "q": "What Documents Are Required For Installation?",
+        "a": "To get a new connection, you need a valid ID proof (such as Aadhar card), a passport-size photograph, and an active mobile number for registration."
+      },
+      {
+        "q": "Are There Any Installation Charges?",
+        "a": "Yes, installation charges may apply depending on your location and plan. Our team will inform you about the exact cost before proceeding."
+      },
+      {
+        "q": "Is The Internet Plan Unlimited?",
+        "a": "Yes, RailWire offers unlimited broadband plans. However, speeds may be adjusted as per Fair Usage Policy (FUP) after a certain limit."
+      }
+    ],
+    "ott": {
+      "title": "OTT Activation",
+      "desc": "Watch this video to know how to activate your OTT",
+      "viewAll": "View All"
+    }
+  },
+  "customerCarePage": {
+    "heroTitle": "Welcome to Railwire Customer Support",
+    "heading": "We are here to support you.",
+    "tabComplaint": "Complaint",
+    "tabEmail": "E-mail",
+    "tabCall": "Call",
+    "needImmediate": "Need Immediate Assistance?",
+    "care247": "24×7 Customer Care",
+    "careDesc": "Our customer care team is available round the clock to assist you with any queries or support you need.",
+    "tollFree": "Toll-Free No",
+    "emailDirectory": "E-mail Directory",
+    "tableNo": "No.",
+    "tableCircle": "Circle/State",
+    "tableEmail": "Customer Support Email",
+    "complaintSubtitle": "Please select the option that best describes you to get the right support.",
+    "newCustomer": {
+      "title": "New Customer",
+      "desc": "Need assistance or want to raise a new customer grievance?",
+      "btn": "Submit Request"
+    },
+    "existingCustomer": {
+      "title": "Existing Customer",
+      "desc": "Already a RailWire customer? Access billing and customer support.",
+      "btn": "Get Support"
+    },
+    "otherMails": {
+      "title": "Other Important Mails",
+      "desc": "Need more help? Here are a few important email IDs you can reach out to."
+    },
+    "appellate": {
+      "title": "Appellate Authority",
+      "emailLabel": "E-mail:",
+      "contactLabel": "Contact No.:"
+    },
+    "appellateNote": "Note: Please mention the valid complaint ticket number while escalating the issue to the Appellate Authority."
+  },
+  "anpPage": {
+    "badgeSub": "Last Mile Connectivity",
+    "badgeFor": "For Local Cable Operators who have an active network of subscribers with co-axial/optical fiber connectivity.",
+    "applyBtn": "Apply For ANP",
+    "heroTitle": "Become a RailWire Business Partner",
+    "heroDesc": "RailTel works with MSPs and ANPs to take high speed broadband internet to all parts of the country through its 61,000+ km optical fibre backbone and you could qualify to become a partner in making wired broadband available to your community. Not only will this add to your monthly income, but you will also serve as an example of local entrepreneurship to thousands of young minds in your area.",
+    "definition": "A RailWire ANP is a Local Cable Operator with at least 50 active cable subscribers on optical fibre, co-axial cable or wireless connectivity.",
+    "serviceTitle": "Service {{n}}",
+    "s1": "Formal building permission is obtained from building owners or apartment associations. Permissions shall include, but not be limited to allocating space for equipment rack, LAN switch, fiber termination in the Building & premises. Power supply arrangement & right to draw electricity from the building/apartment and in-building/premises. Cable-laying works to connect subscribers.",
+    "s2": "Charges, if any, towards electricity drawn from the building payable by the ANP. In the event the building owner or building association demands rental charges towards rack-space, the same is borne by the ANP.",
+    "s3": "The access network from RailTel’s POP to the customer premises is built and maintained by the ANP.",
+    "s4": "The ANP provides end-to-end customer premise installation and support, ensuring optimal fiber line connectivity.",
+    "s5": "The ANP delivers prompt troubleshooting and local maintenance to minimize any network downtime.",
+    "s6": "Continuous coordination with RailTel and the MSP ensures top-tier broadband quality for every subscriber."
+  },
+  "mspPage": {
+    "badge": "Managed Service Provider",
+    "badgeSub": "Empowering Networks",
+    "applyBtn": "Apply For MSP",
+    "heroTitle": "Become a RailWire MSP Partner",
+    "heroDesc": "Join hands with RailTel as a Managed Service Partner to drive broadband infrastructure, partner enablement, and network operations across entire regions.",
+    "serviceTitle": "Service {{n}}",
+    "services": [
+      "RailWire's Managed Service Partner (MSP) identifies prospective Access Network Providers (ANPs) to be the Multi-Service Operators (MSOs) or the Local Cable Operators (LCOs), evangelizes RailWire business and its uniqueness with the ANPs. MSP short-lists and selects suitable ANPs, leading to signing of agreements between RailTel, the MSP & the ANP. RailTel arranges for connectivity of the ANP location(s) to the RailTel network.",
+      "MSP manages the ANP Networks, Billing and Customer Support through the centrally-hosted Operational Support Software System (OSS), Business Support Software System (BSS), Network Management Software System (NMS) and Customer Relationship Management Software System (CRM) of RailTel. MSP will always have access to RailTel's OSS, BSS, NMS and CRM systems.",
+      "MSP arranges the requisite infrastructure along with IT accessories like Personal Computers/Thin Clients at its own cost for managing the OSS, BSS, NMS, and CRM systems.",
+      "MSP arranges other supporting infrastructure like commercial AC power, alternate power source, UPS battery sets, air-conditioning (cooling), space, and staff.",
+      "RailTel connects the MSP Location through fiber/RF from its nearest available network along with all necessary hardware for availability of access to RailTel's centrally-hosted OSS, BSS, NMS, and CRM systems. Wherever feasible, subject to availability, RailTel will offer to the MSP its raw space at nominal price such that the MSP can renovate and create requisite infrastructure for RailWire offices and support centre(s).",
+      "MSP facilitates call-center services at its own cost, which will interface with RailTel's toll-free number and handle queries, complaints, and extend maintenance support to RailWire customers.",
+      "MSP resolves direct queries of the customers through e-mails addressed to webmaster/helpdesk.",
+      "MSP operates a service-center together with requisite skilled manpower on a 24x7x365 basis, specifically for RailWire customers.",
+      "MSP ensures that all legal obligations required of an ISP, as mandated by the DoT, including keeping KYC data are fulfilled. These records and processes are made available for monthly and/or quarterly inspection by RailTel and/or DoT officials.",
+      "MSP does the revenue collections from ANPs, does the accounting and settlement through the RailWire Billing System. Based on prepayment, RailWire connections are provisioned by RailTel through its regional/territorial Network Operating Centers (NOCs).",
+      "RailTel ensures that all revenue collection from ANPs are deposited into an escrow account in a nationalized/first class commercial Bank, opened and maintained by RailTel and reconciled on a monthly basis. The appropriation of revenue to RailTel and MSP is carried out on a weekly basis. Likewise, RailTel reconciles the monthly Bank receipts with the RailWire-provided data in order to confirm complete billing and realization. From time-to-time, the services of the MSP gets audited by RailTel officials and/or third party auditors. Payments to the ANPs are facilitated through a payment gateway.",
+      "MSP pursues targets fixed by the joint working group (JWG) consisting of RailTel and ANP officials. MSP deploys necessary resources for branding, marketing, and sales of RailWire services. In consultation with the JWG, MSP organizes outdoor advertisements, print and electronic media advertisements, road-shows, tele-marketing, SMS campaign etc. RailTel will provide the creative inputs for brand-building and campaign advertisements.",
+      "MSP educates the ANPs in evangelizing the concept of RailWire and its uniqueness to apartment associations, builders community, various residential colonies as well as the retail community. MSP educates the ANPs on the design rules of the RailWire network that needs to be followed by the ANPs when rolling-out their Aggregation Network, Edge Network, and/or In-Building Network for RailWire. MSPs employ adequate staff trained in networking.",
+      "On a need basis, MSP may enter into independent agreements with financial institutions to offer loan facilities to RailWire subscribers for bundled offerings from RailWire – hardware, other devices, or 3rd party software licences. RailTel will not be a party to this agreement. MSP operates a service-center together with requisite skilled manpower on a 24x7x365 basis, specifically for RailWire customers.",
+      "MSP shares with RailTel copies of all agreements signed by MSPs in connection with RailWire business, whether or not such agreement required the approval of RailTel.",
+      "MSP may procure and supply access network equipment, customer premise equipment (CPE), ethernet-over-coaxial cable modems at competitive rates to ANPs. MSP takes RailTel's approval for technical suitability of equipment being deployed in access bandwidth by the ANP.",
+      "MSP measures periodically the customer experience of brand-RailWire in accordance with customer experience fulfilment standards laid down by RailTel so as to ensure that RailWire subscribers perceive similar quality of service irrespective of the Circle/Region that the MSP services."
+    ]
+  },
+  "agnpPage": {
+    "heroTitle": "Become a RailWire AGNP Partner",
+    "applyBtn": "Apply For AGNP",
+    "mspSection": "MSP Responsibilities",
+    "anpSection": "ANP Responsibilities"
+  },
+  "achieversPage": {
+    "eyebrow": "Our Achievers",
+    "title": "Achievers of the Month",
+    "desc": "Recognizing outstanding performance across our network. Celebrating partners who go the extra mile to connect communities.",
+    "all": "All",
+    "badge": "Achiever Of the Month",
+    "empty": "No achievers to show yet."
+  },
+  "installationPage": {
+    "title": "Installation",
+    "heading": "New Installations @ INR 3,000/- across India",
+    "desc": "RailWire has standardised a maximum of INR 3,000/- as the one-time installation cost for new connections, including the fiber and customer premises equipment (ONU). For cases where the installation location is beyond the ANP's feasible limit and the ANP is not able to install a new connection for INR 3,000/-, subscribers need to sign the consent form below.",
+    "consentBtn": "Consent Form"
+  },
+  "plansPortal": {
+    "supportCall": "For New Connection or any Support Please Call",
+    "applyNew": "Apply for New Connection",
+    "rechargeAccount": "Recharge My Account",
+    "subscriberLogin": "Subscriber Login",
+    "grievance": "Grievance",
+    "exploreLocal": "Click Here To Explore Local Plans",
+    "subheading": "RailTel Internet & Entertainment",
+    "findPlans": "📍 Find Plans in Your Area",
+    "searchPlansTitle": "Search RailWire Broadband Plans",
+    "searchPlansDesc": "Select your state or region to view the latest broadband plans, offers and availability in your area.",
+    "chooseState": "Choose Your State",
+    "searchBtn": "Search Plans →",
+    "selectState": "Select Your State",
+    "continue": "Continue"
+  },
+  "consumerAwarenessPage": {
+    "title": "Consumer Awareness Information",
+    "heading": "Consumer Awareness Information PPTs 3rd Quarter (October-December 2026)",
+    "viewPpt": "View PPT",
+    "presentations": "Presentations",
+    "traiYoutube": "TRAI YouTube Channel",
+    "watchYoutube": "Watch on YouTube"
+  },
+  "statePage": {
+    "tagline": "RailWire is not just another Broadband Connection.",
+    "railtelP1": "We are a retail broadband initiative from RailTel – a Navratna CPSE under Ministry of Railways, Government of India who enable local cable operators to leverage their existing cable network to additionally provide broadband internet connectivity to their subscribers in partnership with RailTel.",
+    "railtelP2": "Local Cable operators who sign-up with RailTel and offer RailWire Broadband Connections are called Access Network Providers (ANPs). RailTel further appoints Managed Service Providers (MSPs) in all its circles to support these ANPs with Technology, Customer Care and Marketing.",
+    "officesTitle": "Our Offices in {{state}}",
+    "mspTitle": "Our RailWire {{state}} MSP",
+    "emailLabel": "Email:",
+    "notFound": "State not found",
+    "backHome": "Back to Home",
+    "heroDesc": "Delivering secure, high-speed internet with flexible plans, digital entertainment, and trusted local connectivity backed by RailTel’s nationwide fiber infrastructure",
+    "plansTitle": "Broadband Plans",
+    "plansDesc": "RailWire’s latest flagship Broadband Internet Plans for Homes and Small Offices offering blazing speeds",
+    "comingSoon": "Plan details for {{name}} are coming soon. Please call 1800 1039 139 for more information.",
+    "perMonth": "/mo",
+    "planDesc": "This plan offers {{speed}} speed with Commercial data limit policy. Terms and Conditions Apply. Taxes Extra.",
+    "feasibility": "Subject to technical feasibility in your area.",
+    "applyNow": "Apply Now",
+    "morePlans": "For More Local Plans And Details Click here",
+    "networkTitle": "A Broadband Internet Network Like, No Other.",
+    "backboneTitle": "Pan India Optical Fiber Backbone",
+    "backboneDesc": "RailWire Broadband streams through India’s largest, nation-wide optical fiber network, running along railway tracks, reaching every remote village and town, in the farthest corners of the country.",
+    "entrepreneurshipTitle": "Empowering Local Entrepreneurship",
+    "entrepreneurshipDesc": "RailWire Broadband partners with local entrepreneurs to provide last-mile broadband connectivity to customers."
+  },
+  "studentPage": {
+    "heroTitle": "Student Corner",
+    "heroDesc": "Empowering students with fast internet, career notifications, scholarship alerts, and educational tools to help you succeed.",
+    "latestNews": "Latest",
+    "newsTitle": "News & Updates",
+    "newsDesc": "Explore important student updates including government exams, career opportunities, scholarships, and current educational news all in one place.",
+    "oppHub": "Opportunity Hub",
+    "jobAlert": "Job Alert",
+    "source": "Source",
+    "date": "Date",
+    "by": "By",
+    "studyMaterial": "Study Material & Resources",
+    "studyDesc": "Access curated study guides, past question papers, and digital reference books.",
+    "download": "Download"
+  },
+  "entertainmentPage": {
+    "heroTitle": "Entertainment Zone",
+    "heroDesc": "Fun brain games, memory match puzzles, and quizzes for students, families, and everyday users.",
+    "memoryTitle": "Memory Match Game",
+    "turns": "Turns",
+    "matched": "Matched",
+    "won": "Congratulations! You matched all pairs in {{turns}} turns!",
+    "playAgain": "Play Again",
+    "wordTitle": "Word Search Puzzle",
+    "wordsToFind": "Words to Find",
+    "allWordsFound": "Awesome! You found all words!",
+    "quizTitle": "Daily Broadband & Tech Quiz",
+    "question": "Question",
+    "of": "of",
+    "nextQuestion": "Next Question",
+    "quizFinished": "Quiz Completed!",
+    "yourScore": "Your Score: {{score}} out of {{total}}",
+    "retakeQuiz": "Retake Quiz"
+  },
+  "newsPage": {
+    "heroTitle": "News And Updates",
+    "heroDesc": "Discover the latest updates in technology, public announcements, national news, and regional developments from across the country.",
+    "localStories": "Local Stories",
+    "latestFeed": "Latest News Feed",
+    "localDesc": "Connecting your community with timely news, travel updates, and local celebrations.",
+    "timelyRailway": "Timely Railway News",
+    "timelyDesc": "Bringing you accurate railway news and timely passenger updates.",
+    "latestRailway": "Latest Railway News",
+    "nationalUpdates": "National Updates",
+    "techNews": "Latest Technology News",
+    "techNewsTitle": "Technology News",
+    "techDesc": "Technology and digital updates, latest gadgets and applications, software and innovation updates."
+  },
+  "blogPages": {
+    "recentPosts": "Recent Posts",
+    "recentComments": "Recent Comments",
+    "categories": "Categories",
+    "leaveReply": "Leave a Reply",
+    "emailNotice": "Your email address will not be published. Required fields are marked *",
+    "commentPlaceholder": "Comment *",
+    "namePlaceholder": "Name *",
+    "emailPlaceholder": "Email *",
+    "websitePlaceholder": "Website",
+    "saveInfo": "Save my name, email, and website in this browser for the next time I comment.",
+    "postComment": "Post Comment",
+    "comments": "Comments",
+    "comment": "Comment",
+    "readMore": "Read More",
+    "admin": "Railwireadmin",
+    "categoryBenefits": "Benefits of Fiber Internet",
+    "categoryBroadband": "Broadband",
+    "categoryCustomer": "Customer Story",
+    "categoryExpansion": "Network Expansion",
+    "categoryPartner": "Partner Opportunity",
+    "categorySuccess": "Partner Success Story",
+    "categoryUncategorized": "Uncategorized"
+  },
+  "blogArticles": {
+    "categoriesLabel": "CATEGORIES:",
+    "thoughtsOn": "{{count}} Thoughts On “{{title}}”",
+    "on": "on",
+    "share": "Share",
+    "views": "{{count}} Views",
+    "topCast": "Top Cast",
+    "rateMovie": "Rate this movie?",
+    "reviewedBy": "Reviewed By ",
+    "digitalIndia": {
+      "title": "The Rise of Digital India and the Need for Better Connectivity",
+      "p1": "India's rapid digital growth has increased the demand for fast and reliable internet. With more services moving online, connectivity has become a necessity rather than a luxury.",
+      "p2": "RailWire is playing a crucial role in supporting this transformation by delivering high-speed broadband across the country through its strong partner network."
+    },
+    "wifiSetup": {
+      "title": "Guide for wifi Setup – Wi-Fi connection is simple and quick",
+      "body": "Setting up your RailWire Wi-Fi connection is simple and quick. Connect the router power adapter and plug the internet/fiber cable into the WAN/Internet port, then switch on the router and wait for the indicator lights to stabilize. On your mobile, laptop, or smart TV, open Wi-Fi settings, select your RailWire network name (SSID), and enter the Wi-Fi password provided on the router sticker or by the technician. For better security, you can change your Wi-Fi name and password by logging into the router settings through 192.168.1.1 or 192.168.0.1. To enjoy the best speed and uninterrupted streaming experience, place the router in a central open location away from walls and electronic interference. If you face any connectivity issues, simply restart the router or contact RailWire customer support at 1800-103-9139 for assistance."
+    },
+    "ruralIndia": {
+      "title": "RailWire Expands High-Speed Connectivity Across Rural India",
+      "p1": "RailWire continues to strengthen its mission of connecting every corner of India by expanding its high-speed broadband services into rural and underserved regions. With a growing network of local partners, the reach of reliable internet is no longer limited to urban areas.",
+      "p2": "This expansion not only improves digital access but also empowers local businesses, students, and households with seamless connectivity. By working closely with partners, RailWire ensures faster deployment and better service quality."
+    },
+    "partnerStory": {
+      "title": "How a Local Partner Transformed Connectivity in Their Region",
+      "p1": "A dedicated partner from Tamil Nadu has successfully connected hundreds of homes and businesses through RailWire’s network. By focusing on customer service and local engagement, they were able to build trust and grow rapidly.",
+      "p2": "Their success highlights the power of strong partnerships and community-driven growth. RailWire continues to support such partners with tools, training, and marketing resources."
+    },
+    "fiberFuture": {
+      "title": "Why Fiber Broadband is the Future of Internet Connectivity",
+      "p1": "Fiber broadband offers unmatched speed, reliability, and performance compared to traditional connections. Whether it's streaming, gaming, or running a business, fiber ensures a smooth and uninterrupted experience.",
+      "p2": "RailWire’s fiber network is designed to handle the increasing demand for high-speed internet, making it the ideal choice for both homes and enterprises."
+    },
+    "reliableLife": {
+      "title": "Reliable Internet Changing Everyday Life-Makes Life Better",
+      "p1": "For many families, a stable internet connection is essential for education, work, and entertainment. RailWire has been a game-changer for customers who previously struggled with slow and unreliable connections.",
+      "p2": "From online classes to remote work, RailWire ensures that users stay connected without interruptions."
+    },
+    "panicAttack": {
+      "title": "Good experience"
+    }
+  },
+  "common": {
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page not found",
+      "desc": "The page you're looking for doesn't exist or has been moved.",
+      "goHome": "Go home"
+    },
+    "error": {
+      "title": "This page didn't load",
+      "desc": "Something went wrong on our end. You can try refreshing or head back home.",
+      "tryAgain": "Try again",
+      "goHome": "Go home"
+    }
+  },
+  "footer": {
+    "aboutTitle": "About Railwire",
+    "aboutText": "RailWire is community based broadband internet service provided by RailTel in partnership with more than 11,000+ communities in India. Incepted in 2008, RailWire broadband is delivered all over India through 62,000+ km optic fiber network running through exclusive right of way along railway tracks.",
+    "appellateMail": "📧 Appellate mail Id:",
+    "contactNo": "📞 Contact No:",
+    "quickLink": "Quick Link",
+    "home": "Home",
+    "business": "Business",
+    "joinPartner": "Join As Partner",
+    "customerCare": "Customer Care",
+    "faq": "FAQ",
+    "newsBlog": "News & Blog",
+    "trackGrievance": "Track Grievance/Query",
+    "installationCharges": "Standard Installation Charges",
+    "pmWani": "PM-WANI Special Plans",
+    "subscriberPortal": "Subscriber Ticketing Portal",
+    "wifiStations": "RailWire WiFi Station Details",
+    "serviceQuality": "Service Quality",
+    "consumerAwareness": "Consumer Awareness Information",
+    "downloadApp": "Download Railwire App",
+    "googlePlayAlt": "Get it on Google Play",
+    "appStoreAlt": "Download on the App Store",
+    "googleQrAlt": "Google Play QR Code",
+    "appleQrAlt": "Apple App Store QR Code",
+    "railtelAlt": "RailTel",
+    "copyright": "© Copyright 2026 by Railwire",
+    "backToTop": "Back to top"
+  }
+}
